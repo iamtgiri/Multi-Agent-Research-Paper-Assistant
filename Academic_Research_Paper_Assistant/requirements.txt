@@ -1,0 +1,30 @@
+# Core Frameworks
+fastapi
+uvicorn
+streamlit
+arxiv
+
+# Database & Data Processing
+neo4j
+pandas
+numpy
+
+# API & Web Requests
+requests
+httpx
+starlette
+
+# LLM & AI Models
+transformers
+torch
+ollama
+
+# Environment & Config
+python-dotenv
+
+# Utilities
+beautifulsoup4
+PyPDF2
+regex
+scipy
+tqdm
