@@ -107,8 +107,8 @@ strem
 
 
 ## 👨‍💻 Author
-**[Diganta Diasi](https://digantadiasi195.github.io/MyPortfolio/)**  
-🔗 [LinkedIn](https://www.linkedin.com/in/digantadiasi/)  
+**[SANTANU SAHOO]**  
+🔗 [LinkedIn](https://www.linkedin.com/in/santanusahoo2003)  
 
 ## ⭐ Support & Contribution
 If you find this useful, give it a ⭐ on GitHub! Contributions are welcome. 😊
