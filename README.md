@@ -44,7 +44,7 @@ academic_research_assistant/
 │   ├── database/       # Neo4j Database Client
 │   └── utils/          # PDF Processing Utility
 └── frontend/            # Streamlit Frontend
-    ├── app.py          # Streamlit UI
+    └── app.py          # Streamlit UI
 ```
 
 ## 🛠️ Installation & Setup
@@ -91,7 +91,7 @@ Frontend UI will open in the browser.
 ```sh
 uvicorn backend.main:app --host 0.0.0.0 --port 8000
 ```
-strem
+
 ### **Deploy Streamlit on Streamlit Cloud**
 - Go to [Streamlit Cloud](https://share.streamlit.io/)
 - Connect GitHub repo & deploy.
@@ -107,7 +107,7 @@ strem
 
 
 ## 👨‍💻 Author
-**[SANTANU SAHOO]**  
+**SANTANU SAHOO**  
 🔗 [LinkedIn](https://www.linkedin.com/in/santanusahoo2003)  
 
 ## ⭐ Support & Contribution
